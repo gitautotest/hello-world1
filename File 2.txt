@@ -2,6 +2,3 @@ Conflict Line 1
 line 2.. line 3
 push line 3
 commit L4
-line 5
-line 6
-line 7
